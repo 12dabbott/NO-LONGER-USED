@@ -19,7 +19,6 @@ int main()
 	vector<int> exits;
 	connections.resize(N, vector<bool>(N));
 
-	queue<int> nodes;
 	for (int i = 0; i < L; i++) {
 		int N1; // N1 and N2 defines a link between these nodes
 		int N2;
