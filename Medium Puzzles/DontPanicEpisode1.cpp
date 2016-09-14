@@ -1,3 +1,4 @@
+```C++
 #include <iostream>
 #include <string>
 #include <vector>
@@ -51,3 +52,4 @@ int main()
 		// action: WAIT or BLOCK
 	}
 }
+```
