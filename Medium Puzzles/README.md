@@ -22,3 +22,6 @@ A finance company is carrying out a study on the worst stock investments and wou
 
 # [Shadows of the Knight - Episode 1](./ShadowsOfTheKnightEpisode1.cpp)
 Batman will look for the hostages on a given building by jumping from one window to another using his grapnel gun. Batman's goal is to jump to the window where the hostages are located in order to disarm the bombs. Unfortunately he has a limited number of jumps before the bombs go off...
+
+# [The Last Crusade - Episode 1](./TheLastCrusadeEpisode1.cpp)
+Your objective is to write a program capable of predicting the route Indy will take on his way down a tunnel. Indy is not in danger of getting trapped in this first mission.
