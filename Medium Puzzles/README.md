@@ -1,5 +1,11 @@
 # Descriptions of puzzles
 
+# [WIP Conway Sequence](./conwaysequence.cpp)
+
+Accidentally made it only work without spaces, doesnt accept answer for
+double digit numbers, which is retarded. TO DO: Make this work with
+spaces and acknowledge double digit numbers
+
 # [Don't Panic - Episode 1](./DontPanicEpisode1.cpp)
 You need to help Marvin and his clones (or is it the other way round?) reach the exit in order to help them escape the inside of the Infinite Improbability Drive. 
 
