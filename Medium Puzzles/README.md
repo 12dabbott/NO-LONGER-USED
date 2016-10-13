@@ -1,6 +1,6 @@
 # Descriptions of puzzles
 
-# [WIP Conway Sequence](./conwaysequence.cpp)
+# [WIP Conway Sequence](./ConwaySequence.cpp)
 
 Accidentally made it only work without spaces, doesnt accept answer for
 double digit numbers, which is retarded. TO DO: Make this work with
